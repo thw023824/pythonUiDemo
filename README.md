@@ -10,7 +10,9 @@ UI框架推荐
 
 教程①：https://flet.dev/docs/tutorials
 
-教程②https://github.com/kmranrg/FletSchool
+教程② https://github.com/kmranrg/FletSchool
+
+教程③ https://github.com/ndonkoHenri/Flet-Samples
 
 2、pysimplegui框架
 项目地址：https://github.com/PySimpleGUI/PySimpleGUI
@@ -18,4 +20,6 @@ UI框架推荐
 教程①：https://www.pysimplegui.org/en/latest/call%20reference/
 
 
-~更多陆续更新中~
+更多陆续更新中
+
+
